@@ -3,7 +3,7 @@ function conversao(valorEmDolar){
    return resultadoDaConversao.toFixed(2);
 }
 
-let valorEmDolar = 25;
+let valorEmDolar = 15;
 let resultadoDaConversao = conversao(valorEmDolar);
 console.log(`${valorEmDolar} dolares é o equivalente a ${resultadoDaConversao} reais`);
 
