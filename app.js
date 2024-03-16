@@ -25,7 +25,7 @@ function areaPerimetro(largura, altura){
    let perimetro = (largura + altura) * 2;
    return `A area é ${area} e o perimetro é ${perimetro}`; 
 }
-console.log(areaPerimetro(8, 7)); 
+console.log(areaPerimetro(10, 11)); 
 
 function areaPerimetroCirculo(raio){
    let areaCirculo = Math.PI * raio * raio;
