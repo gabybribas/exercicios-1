@@ -33,7 +33,7 @@ function areaPerimetroCirculo(raio){
    return `A area é ${areaCirculo.toFixed(2)} e o perimetro é ${perimetroCirculo.toFixed(2)}`;
 }
 
-console.log(areaPerimetroCirculo(7));
+console.log(areaPerimetroCirculo(10));
 
 function tabuada(numero){
    for (i = 1; i <= 10; i++){
