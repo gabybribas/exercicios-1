@@ -41,7 +41,7 @@ function tabuada(numero){
       console.log(multiplicação);
    }
 }
-tabuada(12);
+tabuada(13);
 
 
 let linguagensDeProgramacao = ['JavaScript', 'C++', 'C', 'Kotlin', 'Python'];
